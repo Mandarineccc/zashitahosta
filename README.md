@@ -42,8 +42,8 @@
 ```
 
 При необходимости прикрепитe сюда скриншоты
-[Название скриншота 1](https://github.com/Mandarineccc/zashitahosta/blob/main/111111.png)
-[Название скриншота 2](https://github.com/Mandarineccc/zashitahosta/blob/main/222222.png)
+![Название скриншота 1](https://github.com/Mandarineccc/zashitahosta/blob/main/111111.png)
+![Название скриншота 2](https://github.com/Mandarineccc/zashitahosta/blob/main/222222.png)
 
 
 
@@ -69,10 +69,10 @@
 ```
 
 При необходимости прикрепитe сюда скриншоты
-[Название скриншота 1](https://github.com/Mandarineccc/zashitahosta/blob/main/21111.png)
-[Название скриншота 2](https://github.com/Mandarineccc/zashitahosta/blob/main/2.22222.png)
-[Название скриншота 3](https://github.com/Mandarineccc/zashitahosta/blob/main/233333.png)
-[Название скриншота 4](https://github.com/Mandarineccc/zashitahosta/blob/main/244444.png)
+![Название скриншота 1](https://github.com/Mandarineccc/zashitahosta/blob/main/21111.png)
+![Название скриншота 2](https://github.com/Mandarineccc/zashitahosta/blob/main/2.22222.png)
+![Название скриншота 3](https://github.com/Mandarineccc/zashitahosta/blob/main/233333.png)
+![Название скриншота 4](https://github.com/Mandarineccc/zashitahosta/blob/main/244444.png)
 
 ---
 
